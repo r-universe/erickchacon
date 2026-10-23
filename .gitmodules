@@ -5,3 +5,6 @@
 [submodule "sfclust"]
 	path = sfclust
 	url = https://github.com/erickchacon/sfclust
+[submodule "spifa"]
+	path = spifa
+	url = https://github.com/erickchacon/spifa
